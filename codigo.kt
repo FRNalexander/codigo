@@ -1,2 +1,2 @@
-//Logger
-implementation 'com.orhanobut:logger:2.2.0'
+//Lottie
+implementation 'com.airbnb.android:lottie:5.2.0'
