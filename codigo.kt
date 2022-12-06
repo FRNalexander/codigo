@@ -1,3 +1,3 @@
-//Corutinas
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.6.1'
-    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1'
+//Hilt
+    implementation "com.google.dagger:hilt-android:2.44"
+    kapt "com.google.dagger:hilt-compiler:2.44"
